@@ -9,8 +9,8 @@ export default [
         ecmaVersion: 2021,
       },
       rules: {
-        'no-unused-vars': 'warn',
-        'no-console': 'off',
+        'no-unused-vars': 'warn',//error
+        'no-console': 'off',//error
         // Añade más reglas que necesites aquí
       },
     },
