@@ -1,0 +1,12 @@
+# Dependencias de Node.js
+node_modules/
+npm-debug.log
+
+# Configuración de ESLint
+.eslintcache
+
+# Archivos de entorno
+.env
+
+# Directorios de Git
+.git/
